@@ -1,0 +1,8 @@
+{
+  "name": "TestCharts",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "1633e4df"
+}
